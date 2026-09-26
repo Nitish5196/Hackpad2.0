@@ -505,6 +505,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/kkknf/Downloads/Ël  h.STEP"
+			(offset
+				(xyz 7.5 -2.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -795,6 +806,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/kkknf/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -2295,13 +2317,24 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 6)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "C:/Users/kkknf/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -3908,13 +3941,24 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "C:/Users/kkknf/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -4207,6 +4251,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/kkknf/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -4904,6 +4959,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/kkknf/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -9796,6 +9862,17 @@
 			(uuid "31a16542-d759-4215-9356-015471454e5b")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/kkknf/Downloads/Seeed Studio XIAO RP2040 v26.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
@@ -12092,6 +12169,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/kkknf/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)

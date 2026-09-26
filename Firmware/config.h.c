@@ -1,0 +1,19 @@
+#pragma once
+
+#define MATRIX_ROWS 2
+#define MATRIX_COLS 3
+
+#define MATRIX_ROW_PINS { GP8, GP9 }
+#define MATRIX_COL_PINS { GP0, GP1, GP2 }
+#define DIODE_DIRECTION COL2ROW
+
+#define ENCODERS_PAD_A { GP3 }
+#define ENCODERS_PAD_B { GP6 }
+#define ENCODER_RESOLUTION 4
+
+#define I2C_DRIVER I2CD1
+#define I2C1_SDA_PIN GP4
+#define I2C1_SCL_PIN GP5
+
+#define WS2812_DI_PIN GP10
+#define RGBLIGHT_LED_COUNT 16
