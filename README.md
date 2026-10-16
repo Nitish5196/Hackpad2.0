@@ -11,20 +11,22 @@ this is my own hackpad i made for stardance-hackclub project , it has 6 keys , 1
 
 
 ### BOM
-1 Seeed XIAO RP2040 
+1 Seeed XIAO RP2040 - ₹500.00/$6.00
 
-6 through-hole 1N4148 Diodes
+6 through-hole 1N4148 Diodes - ₹6.00/$0.06
 
-6 MX-Style switches
+6 MX-Style switches - ₹150.00/$1.80
 
-1 EC11E Rotary encoders 
+1 EC11E Rotary encoders - ₹45.00/$0.55
 
-1 0.91 inch OLED display
+1 0.91 inch OLED display - ₹200.00/$2.40
 
-6 white blank DSA keycaps
+6 white blank DSA keycaps - ₹90.00/$1.08
 
-16 SK6812 MINI-E LEDs
+16 SK6812 MINI-E LEDs - ₹192.00/$2.24
 
-4 M3x16mm screws
+4 M3x16mm screws - ₹12.00/$0.16
 
-6x M3x5mx4mm heatset inserts
+6x M3x5mx4mm heatset inserts - ₹30.00/$0.36
+
+Total : ₹1,225.00/$14.65
